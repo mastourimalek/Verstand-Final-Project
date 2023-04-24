@@ -1,0 +1,8 @@
+export const LOAD_PRODUCT = "LOAD_PRODUCT";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const ONE_PRODUCT = "ONE_PRODUCT";
+export const FAIL_PRODUCT = "FAIL_PRODUCT";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const EDIT_PRODUCT = "EDIT_PRODUCT";
+
+export const CLEAR_SUCCESSPRODUCT = "CLEAR_SUCCESSPRODUCT";

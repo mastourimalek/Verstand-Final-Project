@@ -1,0 +1,52 @@
+/* Footer.css */
+
+/* Set min-height of html and body to 100% */
+html,
+body {
+  min-height: 100%;
+}
+
+.main-footer {
+  height: 60%;
+  background-color: #f8f8f8;
+  color: gray;
+  padding-top: 3rem;
+  font-size: 1rem;
+  text-align: center;
+  position: relative;
+}
+
+.main-footer p {
+  margin-bottom: 1rem;
+}
+
+.main-footer .flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.main-footer .path {
+  text-decoration: none;
+}
+
+.main-footer .path {
+  color: gray;
+}
+
+.main-footer .ico {
+  width: 1.6rem;
+  margin-right: 0.8rem;
+  vertical-align: middle;
+}
+
+.main-footer .col {
+  display: flex;
+  flex-direction: column;
+}
+
+.ali {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,31 @@
+* {
+  font-family: "Roboto", Arial, sans-serif;
+ 
+}
+
+.All {
+  padding: 100px 0% 0% 0%;
+}
+.logo {
+  margin-bottom: 1ch;
+}
+#welcome {
+  margin: 1ch 5% 5% 5%;
+  padding-top: 0%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 5px;
+  color: rgba(255, 166, 0, 0.699);
+ 
+}
+.carouselle { 
+  margin: 5% 0% 5% 0%;
+}
+
+.parag{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin: 0% 5% 0% 5%;
+  font-size: 15px;
+
+}

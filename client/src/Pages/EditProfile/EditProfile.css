@@ -1,0 +1,31 @@
+
+
+#pro {
+  margin-top: 7ch;
+  color: rgba(255, 166, 0, 0.699);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+.EditProfile {
+  text-align: center;
+  margin-top: 5ch;
+  display: flex;
+  justify-content: center;
+  border-radius: 0.5ch;
+
+  margin-bottom: 2rem;
+}
+.space {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.editCard {
+ 
+  box-shadow: 0px 0px 10px 0px;
+background-color: #f8f8f8 !important;
+  padding-bottom: 2ch;
+}
+
+
+

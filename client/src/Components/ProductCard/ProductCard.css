@@ -1,0 +1,54 @@
+* {
+  font-family: "Roboto", Arial, sans-serif;
+  color: #747474;
+}
+.prodCard {
+  margin-bottom: 10%;
+  box-shadow: 0px 0px 10px 0px;
+}
+.prodCard:hover {
+  box-shadow: 0px 0px 10px 0px;
+  cursor: pointer;
+  transform: scale(1.05, 1.05);
+  transition-duration: 1s;
+}
+.prodCard Img {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1rem;
+}
+.txt {
+  font-size: 13px;
+}
+.buy {
+  border: 1px solid #747474;
+  border-radius: 0.5ch;
+  background-color: rgba(255, 166, 0, 0.699);
+  color: #fff;
+}
+
+.buy:hover {
+  border: 1px solid #747474;
+  border-radius: 0.5ch;
+  background-color: rgba(255, 166, 0, 0.699);
+  box-shadow: 0px 0px 10px 0px;
+  cursor: pointer;
+  transform: scale(1.05, 1.05);
+  transition-duration: 1s;
+}
+.toBut {
+  width: 14rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.editDelet {
+  display: flex;
+  justify-content: space-around;
+}

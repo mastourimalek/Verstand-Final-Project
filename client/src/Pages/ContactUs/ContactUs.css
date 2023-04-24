@@ -1,0 +1,46 @@
+.verstand1 {  
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    letter-spacing: 5px;
+    color: rgba(255, 166, 0, 0.699);
+    font-size: 200%;
+margin-top: 5ch;
+}
+.verstand2 {  
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    letter-spacing: 5px;
+    color: rgba(255, 166, 0, 0.699);
+    font-size: 200%;
+
+}
+.contain {display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin: auto;
+animation: backInRight; 
+animation-duration: 2s;
+text-align: center;
+max-width: 60%;
+}
+
+    
+
+
+.icon{width: 50px;
+margin-top: 35px;
+margin-bottom: 30px;
+
+}
+
+.icon:hover{animation: flip; 
+    animation-duration: 2s;
+}
+
+.icon2{
+    margin-top: 35px;
+    margin-bottom: 30px;
+    border-radius: 1%;
+    width: 60%;
+    
+    border: 1px solid #05164494;
+    }
+    
